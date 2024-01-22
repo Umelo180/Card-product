@@ -112,6 +112,7 @@ h2 {
   border-radius: 12px;
   padding: 0.6em; 
   margin-bottom: 32px; 
+  cursor: pointer;
 }
 
 span {
